@@ -26,7 +26,7 @@ async function fetchData(url) {  //Uniform Resource Locator
   }
 
   
-  fetchData("https://v2.jokeapi.dev/joke/any") //Hit the endpoint of the service
+  fetchData("https://open.er-api.com/v6/latest/USD") //Hit the endpoint of the service
   
 
 
